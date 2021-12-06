@@ -1,5 +1,5 @@
 # Todo
-Todo List
+A website full CRUD Todo List Application using Local Storage use HTML, CSS and Javascript
 
 ## Steps To Success:
 ### Project setup and css reset
